@@ -1,7 +1,4 @@
-# Awesome Project Build with TypeORM
+# Passo a passo para Rodar a aplicação
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+1. Rode o comando `npm i` para instalar as dependencias
+2. E depois o comando `npm start` para iniciar o servidor
